@@ -1,1 +1,2 @@
 Flutter GetX
+=> Get.to(page)
